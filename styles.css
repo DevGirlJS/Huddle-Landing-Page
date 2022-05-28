@@ -16,7 +16,7 @@ html {
 
 body {
     height: 100%;
-    background: var(--Violet) url('images/bg-mobile.svg') no-repeat;
+    background: var(--Violet) url('/images/bg-mobile.svg') no-repeat;
     background-size: contain;
     color: white;
     font-family: 'poppins';
