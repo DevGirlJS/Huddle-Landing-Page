@@ -16,7 +16,7 @@ html {
 
 body {
     height: 100%;
-    background: var(--Violet) url('/images/bg-mobile.svg') no-repeat;
+    background: var(--Violet) url('images/bg-mobile.svg') no-repeat;
     background-size: contain;
     color: white;
     font-family: 'poppins';
@@ -89,8 +89,8 @@ ul {
 .fa-brands {
     font-size: 1.5rem;
     color: white;
-    height: 20px;
-    width: 20px;
+    height: 30px;
+    width: 30px;
     justify-content: center;
     align-items: center;
     border: 1px solid white;
